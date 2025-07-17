@@ -46,7 +46,7 @@ git clone https://github.com/kingsleyiwuchukwu/alx-project-0x00-setup.git
 cd your-repo-name
 
 2. **Install dependencies**
-```bash
+
 npm install
 # or
 yarn install

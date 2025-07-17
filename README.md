@@ -38,6 +38,16 @@ Before you start, ensure you have the following installed:
 
 ---
 
+📁 Project Structure
+
+/components    # Reusable UI components
+/pages         # Next.js pages routing
+/public        # Static assets
+/styles        # Global styles and Tailwind config
+/interfaces    # TypeScript interfaces and types
+
+---
+
 ## 🛠️ Getting Started
 
 1. **Clone the repository**
@@ -45,8 +55,14 @@ Before you start, ensure you have the following installed:
 git clone https://github.com/kingsleyiwuchukwu/alx-project-0x00-setup.git
 cd your-repo-name
 
-2. **Install dependencies**
+- Install dependencies
 
 npm install
 # or
 yarn install
+
+3. Run the development server
+
+npm run dev
+# or
+yarn dev

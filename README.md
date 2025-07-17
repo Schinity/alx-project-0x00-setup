@@ -40,10 +40,8 @@ Before you start, ensure you have the following installed:
 
 ## 📁 Project Structure
 
-alx-listing-app/
-│
-├── components/      # Reusable UI components (e.g., Button, Navbar, Card)
-├── interfaces/      # TypeScript interfaces and types for props, data models
+- ├── components/      # Reusable UI components (e.g., Button, Navbar, Card)
+- ├── interfaces/      # TypeScript interfaces and types for props, data models
 ├── constants/       # Static values (e.g., enums, config objects, static lists)
 ├── pages/           # Next.js pages routing
 ├── public/          # Static assets like images and icons

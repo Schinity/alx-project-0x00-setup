@@ -38,7 +38,7 @@ Before you start, ensure you have the following installed:
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 /components    # Reusable UI components
 /pages         # Next.js pages routing
@@ -66,3 +66,6 @@ yarn install
 npm run dev
 # or
 yarn dev
+
+4. Open your browser
+- Visit http://localhost:3000 to view the app.

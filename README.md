@@ -42,14 +42,14 @@ Before you start, ensure you have the following installed:
 
 - ├── components/      # Reusable UI components (e.g., Button, Navbar, Card)
 - ├── interfaces/      # TypeScript interfaces and types for props, data models
-├── constants/       # Static values (e.g., enums, config objects, static lists)
-├── pages/           # Next.js pages routing
-├── public/          # Static assets like images and icons
-├── styles/          # Global styles, Tailwind configuration
-├── utils/           # Helper functions and utilities
-├── tsconfig.json    # TypeScript configuration
-├── tailwind.config.js # Tailwind CSS configuration
-└── next.config.js   # Next.js configuration
+- ├── constants/       # Static values (e.g., enums, config objects, static lists)
+- ├── pages/           # Next.js pages routing
+- ├── public/          # Static assets like images and icons
+- ├── styles/          # Global styles, Tailwind configuration
+- ├── utils/           # Helper functions and utilities
+- ├── tsconfig.json    # TypeScript configuration
+- ├── tailwind.config.js # Tailwind CSS configuration
+- └── next.config.js   # Next.js configuration
 
 
 ---
